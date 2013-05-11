@@ -1,0 +1,6 @@
+Revision history for Perl extension REST::Client::Simple.
+
+0.01  Sat May 11 19:40:45 2013
+	- original version; created by h2xs 1.23 with options
+		-XAn REST::Client::Simple
+
